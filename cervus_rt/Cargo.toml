@@ -1,0 +1,6 @@
+[package]
+name = "cervus_rt"
+version = "0.0.0"
+authors = ["losfair <zhy20000919@hotmail.com>"]
+
+[dependencies]
